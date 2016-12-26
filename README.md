@@ -1,4 +1,4 @@
 puppettest2
 ===========
 
-puppettest2 test
+puppettest2 test1
